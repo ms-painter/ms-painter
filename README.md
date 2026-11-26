@@ -15,7 +15,7 @@
 <h3>$\color{#d0d0d2}{\textsf{information shortened:}}$</h3>
 
 <p>
-$\color{#AFB1B5}{\textsf{z-779 / the_pAInter}}$
+$\color{#AFB1B5}{\textsf{z-779 / the pAInter}}$
   
 $\color{#8E9198}{\textsf{c+h friendly and encouraged}}$
 
