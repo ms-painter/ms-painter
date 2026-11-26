@@ -12,18 +12,18 @@
 <tr>
 <td align="center">
 
-<h3>$\color{#d0d0d2}{\textsf{information shortened}}$</h3>
+<h3>$\color{#d0d0d2}{\textsf{information shortened:}}$</h3>
 
 <p>
-$\color{#AFB1B5}{\textsf{z-779 / the pAInter}}$
+$\color{#AFB1B5}{\textsf{z-779 / the_pAInter}}$
   
 $\color{#8E9198}{\textsf{c+h friendly and encouraged}}$
 
-$\color{#6E727A}{\textsf{usually off-tab, w2i}}$
+$\color{#6E727A}{\textsf{usually off-tab, please w2i}}$
 
-$\color{#4D525D}{\textsf{18+ trans man}}$
+$\color{#4D525D}{\textsf{18+ trans man // it/he}}$
 
-$\color{#2c3340}{\textsf{< Sage 3}}$
+$\color{#2c3340}{\textsf{< Sage ♡ 6/01/26 3}}$
 
 </details>
 
