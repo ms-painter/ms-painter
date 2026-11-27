@@ -24,7 +24,7 @@ $\color{#6E727A}{\textsf{usually off-tab, please w2i}}$
 $\color{#4D525D}{\textsf{18+ trans man // it/he}}$
 
 $\color{#2c3340}{\textsf{< Sage ♡ 6/01/26 3}}$
-
+<p>
 </th>
 </tr>
 </table>
