@@ -8,6 +8,8 @@
 
 - - -
 
+<img align="right" src="https://file.garden/ahYRwLjYvhUwGQDd/image_2026-11-26_185515673.png" width="360" height="auto">
+
 <table>
 <tr>
 <td align="center">
